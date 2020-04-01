@@ -1,4 +1,4 @@
 
 splunkservers:
- - "mysplunkserver.example.com:9997"
+ - "splunk.fixed.ninja:9595"
 
